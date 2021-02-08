@@ -165,4 +165,4 @@ Copy and paste the options from the following gist and save:
 
 ### iTerm 2
 
-`brew install --cask --iterm2`
+`brew install --cask iterm2`

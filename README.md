@@ -126,7 +126,9 @@ nvm install 12.16.1
 
 ### VS Code
 
-```brew install --cask visual-studio-code
+```
+brew install --cask visual-studio-code
+
 ```
 
 Open VS Code by typing `code` at the terminal.
@@ -163,4 +165,4 @@ Copy and paste the options from the following gist and save:
 
 ### iTerm 2
 
-`brew install --iterm2`
+`brew install --cask --iterm2`
